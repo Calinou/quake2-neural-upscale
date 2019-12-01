@@ -21,6 +21,10 @@ making it suitable for competitive play.
   and place it in your Quake 2 user data directory.
 - Run the game and enjoy :slightly_smiling_face:
 
+## Comparison
+
+- [Vanilla versus upscaled comparison](https://imgsli.com/ODgwMQ)
+
 ## Screenshots
 
 *Screenshots were taken with this add-on and nQuake2's HD world textures add-on
