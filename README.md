@@ -13,7 +13,7 @@ making it suitable for competitive play.
 
 ## Requirements
 
-- A source port that suports PNG images such as [Q2PRO](https://skuller.net/q2pro/).
+- A source port that supports PNG images such as [Q2PRO](https://skuller.net/q2pro/).
 
 ## Installation
 
