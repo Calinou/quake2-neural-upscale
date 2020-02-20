@@ -13,12 +13,15 @@ making it suitable for competitive play.
 
 ## Requirements
 
-- A source port that supports PNG images such as [Q2PRO](https://skuller.net/q2pro/).
+- A source port that supports PNG images such as [Q2PRO](https://skuller.net/q2pro/)
+  or [Yamagi Quake 2](https://www.yamagi.org/quake2/).
 
 ## Installation
 
 - [Download the latest release PKZ](https://github.com/Calinou/quake2-neural-upscale/releases/latest)
   and place it in your Quake 2 user data directory.
+- **Yamagi Quake 2 only:** Rename the downloaded file's extension from `.pkz` to `.zip`
+  (see [this issue](https://github.com/Calinou/quake2-neural-upscale/issues/2)).
 - Run the game and enjoy :slightly_smiling_face:
 
 ## Comparison
@@ -27,8 +30,9 @@ making it suitable for competitive play.
 
 ## Screenshots
 
-*Screenshots were taken with this add-on and nQuake2's HD world textures add-on
-(see above). Click on a screenshot to view it in full resolution.*
+*Screenshots were taken in Q2PRO with this add-on and nQuake2's HD world
+textures add-on (see above). Click on a screenshot to view it in full
+resolution.*
 
 [![quake001](https://raw.githubusercontent.com/Calinou/media/master/quake2-neural-upscale/quake001-thumb.jpg)](https://raw.githubusercontent.com/Calinou/media/master/quake2-neural-upscale/quake001.png)
 
