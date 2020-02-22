@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Added
+
+- Upscaled world textures.
+  - Distributed in a separate PKZ file, so that people can choose whether to use neural-upscaled
+    world textures or the
+    [traditional HD texture pack](http://quakeservers.nquake.com/nquake2-addon-textures.zip).
+
 ## [1.1.0] - 2019-12-04
 
 ### Changed
