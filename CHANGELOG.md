@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Fixed
+
+- Some `e3u2` textures are now cropped correctly, fixing several of `q2dm2`'s textures in the process.
+
 ## [2.0.0] - 2020-02-22
 
 ### Added
