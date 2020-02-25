@@ -4,10 +4,6 @@ Quake 2 textures upscaled using [ESRGAN](https://github.com/xinntao/ESRGAN)
 ([`old-arch` tag](https://github.com/xinntao/ESRGAN/tree/old-arch)) and the
 [Manga109Attempt model](https://upscale.wiki/wiki/Model_Database#Manga.2FAnime).
 
-This add-on currently only contains model textures, not world textures.
-For HD world textures, you can use the
-[HD textures add-on from nQuake2](http://quakeservers.nquake.com/nquake2-addon-textures.zip).
-
 This add-on also provides upscaled bright player skins from nQuake2,
 making it suitable for competitive play.
 
