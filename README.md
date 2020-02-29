@@ -22,7 +22,7 @@ making it suitable for competitive play.
 
 ## Comparison
 
-- [Vanilla versus upscaled comparison](https://imgsli.com/ODgwMQ)
+- [Side-by-side video comparison](https://www.youtube.com/watch?v=0tkU5uZAXlM)
 
 ## Screenshots
 
